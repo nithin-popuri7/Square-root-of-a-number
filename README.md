@@ -30,7 +30,7 @@ fun()
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![Github logo](nithin.png)
 
 
 ## Result:
